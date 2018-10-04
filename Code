@@ -1,3 +1,4 @@
+//By: Nikola Hercegovac 10/04/2018
 #include <Adafruit_NeoPixel.h>
 
 #define PIN 2	 // input pin Neopixel is attached to
